@@ -1,8 +1,10 @@
+# Unreal Engine exclusions
 # Ignore build artifacts and temporary files
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+<<<<<<< HEAD
 .vscode/
 .idea/
 *.sln
@@ -39,3 +41,24 @@ Saved/
 
 # Ignore config backups
 Config/*.ini~
+=======
+Build/
+.vs/
+*.sln
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.log
+*.tmp
+*.user
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.DS_Store
+Thumbs.db
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
+>>>>>>> 85fc7c4 (Initial commit)
