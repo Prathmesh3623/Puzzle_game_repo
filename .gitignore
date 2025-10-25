@@ -58,7 +58,36 @@ Build/
 *.VC.opendb
 *.DS_Store
 Thumbs.db
+
+# Plugin-specific build folders
 Plugins/**/Binaries/
 Plugins/**/Intermediate/
 Plugins/**/Saved/
->>>>>>> 85fc7c4 (Initial commit)
+
+=======
+
+# IDE and editor folders
+.idea/
+.vscode/
+*.xcodeproj
+*.xcworkspace
+
+# Backup and autosave files
+*.autosave
+*.backup
+*.tmp
+
+# Config backups
+ConfigBackup/
+
+# Unreal Engine project metadata
+*.uprojectdirs
+*.uplugindirs
+
+# Shader and custom build caches
+ShaderCache/
+CustomBuild/
+
+# Optional folders
+Documentation/
+>>>>>>> 1a991be (Initial clean commit for Puzzle Game)
