@@ -19,7 +19,7 @@ A short gameplay video is included in the submission zip. It demonstrates the tr
 
 ##  GitHub Repository
 
-[https://github.com/Prathmesh3623/Puzzle_game](https://github.com/Prathmesh3623/Puzzle_game_repo)
+[https://github.com/Prathmesh3623/Puzzle_game_repo](https://github.com/Prathmesh3623/Puzzle_game_repo)
 
 ---
 
