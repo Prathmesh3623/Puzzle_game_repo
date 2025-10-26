@@ -1,0 +1,41 @@
+# Ignore build artifacts and temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.log
+*.tmp
+*.user
+*.DS_Store
+*.pdb
+*.obj
+*.exe
+*.dll
+*.class
+*.apk
+*.ipch
+*.local
+
+# Ignore auto-generated project files
+*.xcodeproj
+*.xcworkspace
+*.vs
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.build.cs
+*.target.cs
+
+# Keep the Build folder
+!Build/
+
+# Ignore config backups
+Config/*.ini~
