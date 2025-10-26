@@ -5,6 +5,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 <<<<<<< HEAD
+<<<<<<< HEAD
 .vscode/
 .idea/
 *.sln
@@ -43,6 +44,9 @@ Saved/
 Config/*.ini~
 =======
 Build/
+=======
+
+>>>>>>> dce2b8b (Save local changes before rebase)
 .vs/
 *.sln
 *.exe
@@ -90,4 +94,3 @@ CustomBuild/
 
 # Optional folders
 Documentation/
->>>>>>> 1a991be (Initial clean commit for Puzzle Game)
